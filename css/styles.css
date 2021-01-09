@@ -1,0 +1,179 @@
+body {
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Montserrat-Bold";
+}
+
+p {
+    color: #8f8f8f;
+}
+
+
+/* Headings */
+
+.big-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+
+/* Containers */
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+
+/* Sections */
+
+.colored-section {
+    background-color: hsla(194, 93%, 72%, 0.906);
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+
+/* Buttons */
+
+.githubs-button {
+    margin: 5% 3% 5% 0;
+}
+
+
+/* Title Section */
+
+#title {
+    background-color: hsla(194, 93%, 72%, 0.906);
+    color: #fff;
+    text-align: left;
+}
+
+#title .container-fluid {
+    padding: 1% 15%;
+}
+
+#Intro {
+    margin-top: 8em;
+}
+
+
+/* Title Image */
+
+.title-image {
+    width: 60%;
+    position: absolute;
+    right: 30%;
+    border-radius: 20em;
+}
+
+
+/* Get in Touch */
+
+#contact {
+    position: relative;
+}
+
+.contact-title {
+    font-size: 1.5rem;
+}
+
+.contact-box {
+    padding: 4.5%;
+}
+
+.icon {
+    color: hsla(194, 93%, 72%, 0.906);
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #000000;
+}
+
+
+/* Pricing Section */
+
+#About {
+    padding: 100px;
+}
+
+.price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.about-column {
+    padding: 3% 2%;
+}
+
+
+/* Technology Section */
+
+.Skills-logo {
+    height: 10em;
+    padding: 2em;
+}
+
+
+/* Hire_me Section */
+
+
+/* Footer Section */
+
+.social-icon {
+    margin: 20px 10px;
+    color: #00080c;
+}
+
+.social-icon:hover {
+    color: #ffffff;
+}
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+}
