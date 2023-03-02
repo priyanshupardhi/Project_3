@@ -27,14 +27,14 @@ p {
 
 .section-heading {
     font-size: 3rem;
-    line-height: 1.5;
+    line-height: 1;
 }
 
 
 /* Containers */
 
 .container-fluid {
-    padding: 7% 15%;
+    padding: 5% 15%;
 }
 
 
