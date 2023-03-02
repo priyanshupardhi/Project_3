@@ -21,7 +21,7 @@ p {
 
 .big-heading {
     font-family: "Montserrat-Black";
-    font-size: 3.5rem;
+    font-size: 3rem;
     line-height: 1.5;
 }
 
@@ -159,6 +159,9 @@ p {
 
 /* Footer Section */
 
+footer.colored-section{
+    padding-top: 30px;
+    padding-bottom: 30px;
 
 
 .social-icon {
