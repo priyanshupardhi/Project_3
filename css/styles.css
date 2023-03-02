@@ -159,6 +159,12 @@ p {
 
 /* Footer Section */
 
+#footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
 .social-icon {
     margin: 20px 10px;
     color: #00080c;
