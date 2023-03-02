@@ -41,7 +41,7 @@ p {
 /* Sections */
 
 .colored-section {
-    background-color: hsla(194, 93%, 72%, 0.906);
+    background-color: #655DBB;
     color: #fff;
 }
 
@@ -82,7 +82,7 @@ p {
 /* Title Section */
 
 #title {
-    background-color: hsla(194, 93%, 72%, 0.906);
+    background-color: #655DBB;
     color: #fff;
     text-align: left;
 }
@@ -121,7 +121,7 @@ p {
 }
 
 .icon {
-    color: hsla(194, 93%, 72%, 0.906);
+    color: #655DBB;
     margin-bottom: 1rem;
 }
 
